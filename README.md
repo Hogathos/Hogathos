@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=650&lines=Network+Administration+Student;Python+%E2%86%92+Networking+%E2%86%92+DevOps+%E2%86%92+AgentOps;Building+Iris%2C+an+agent+observability+proxy)](https://git.io/typing-svg)
 
-Network Administration student, GRCC, building Iris, an agent observability proxy.
+Network Administration student, GRCC Winter 2027, building Iris, an agent observability proxy.
 
 <p align="center">
   <a href="https://agentia-mechanici.pages.dev"><img src="https://img.shields.io/badge/Website-agentia--mechanici.pages.dev-blue?style=for-the-badge" alt="Website" /></a>
@@ -15,7 +15,7 @@ Network Administration student, GRCC, building Iris, an agent observability prox
 
 ### About Me
 
-- 🎓 Student, GRCC Network Administration A.A.A.S., then GVSU B.A.S. in Computing, AI specialization
+- 🎓 Student, GRCC Network Administration A.A.A.S., Winter 2027, then GVSU B.A.S. in Computing, AI specialization, ~2029-2031
 - 🛠️ Path: Python → networking / sysadmin → DevOps → AgentOps
 - 👁️ Building Iris: Watch, Verify, Steer, Meter, local-first, metadata only, human in loop
 - 🔍 Iris checks what an agent said it did, against what actually happened, by independent read-back. Correct / Incorrect / Unverified. No score. No LLM-as-judge.
