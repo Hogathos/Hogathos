@@ -54,4 +54,4 @@ Network Administration student, GRCC Winter 2027, building Iris, an agent observ
 |---|---|
 | Agentic Ops | Steer Tier 2, devtool, app mode |
 | DevOps | Verify S3, Postgres, Stripe, then GitHub / Slack / Gmail / Notion |
-| Network Administration | Network+, Python, ALEKS |
+| Network Administration | Network+, Python, ALEKS, GRCC |
