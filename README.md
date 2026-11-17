@@ -55,10 +55,3 @@ Network Administration student, GRCC Winter 2027, building Iris, an agent observ
 | Agentic Ops | Steer Tier 2, devtool, app mode, Jeremy |
 | DevOps | Verify S3, Postgres, Stripe, then GitHub / Slack / Gmail / Notion |
 | Network Administration | Network+, Python, ALEKS, GRCC Winter 2027 |
-
----
-
-### Stats
-
-![Hogathos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hogathos&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hogathos&layout=compact&theme=dark)
